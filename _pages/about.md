@@ -10,8 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
   
-    <p> <a href='franciscoal95@hotmail.com'>franciscoal95@hotmail.com</a></p>
-    <p><a href='https://www.linkedin.com/in/fransci-co'>www.linkedin.com/in/fransci-co</a></p>
+    <p> <a href='https://github.com/fransci-co'>github.com/fransci-co</a></p>
+    <p> <a href='https://www.linkedin.com/in/fransci-co/'>linkedin.com/in/fransci-co</a></p>
+    <p> <a href='mailto:franciscoal95@hotmail.com'>franciscoal95@hotmail.com</a></p>
+
+
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -19,14 +22,13 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-
-
 <br>
-Hey there, thank you visiting my website!
+
+Hey there, thank you visiting my website! <span style="font-size: 2rem;">👋</span>
 
 
 
-I am a very curious scientist who took some time from business to learn more about exciting topics. 
+I am a scientist who took some time from business to learn more about exciting topics. 
 
 I worked as a data scientist and bioinformatics researcher. 
 
