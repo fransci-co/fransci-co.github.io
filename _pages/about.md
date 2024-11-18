@@ -24,7 +24,7 @@ social: false # includes social icons at the bottom of the page
 
 <br>
 
-Hey there, thank you visiting my website! <span style="font-size: 2rem;">👋</span>
+Hey there, thank you for visiting my website! <span style="font-size: 2rem;">👋</span>
 
 
 
